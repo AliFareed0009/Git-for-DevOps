@@ -123,7 +123,7 @@ _A list of my commonly used Git commands_
 Initializes a new Git repository in the current directory. This command creates a new .git directory, which contains all the necessary metadata and objects for version control.
 
 ```
-`git init`
+git init
 ```
 
 ### git clone
